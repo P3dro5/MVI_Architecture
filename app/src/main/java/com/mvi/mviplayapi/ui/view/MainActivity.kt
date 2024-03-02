@@ -9,8 +9,6 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.google.android.ads.mediationtestsuite.viewmodels.ViewModelFactory
-import com.mvi.mviplayapi.R
 import com.mvi.mviplayapi.data.api.ApiHelperImpl
 import com.mvi.mviplayapi.data.api.RetrofitBuilder
 import com.mvi.mviplayapi.data.model.Game

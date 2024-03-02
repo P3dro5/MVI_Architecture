@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">mviplayapi</string>
+    <string name="show_games_literal">Show Games</string>
 </resources>

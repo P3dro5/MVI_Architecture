@@ -9,7 +9,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.mvi.mviplayapi.R
 import com.mvi.mviplayapi.data.model.Game
-import com.mvi.mviplayapi.data.model.RecentGames
 
 class MainAdapter(
     private val games: ArrayList<Game>
